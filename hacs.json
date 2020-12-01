@@ -1,5 +1,6 @@
 {
-  "name": "bredbandskollen",
+  "name": "Bredbandskollen",
   "domains": ["sensor"],
-  "country": ["SE"]
+  "country": ["SE"],
+  "iot_class": ["Cloud Polling"]
 }
