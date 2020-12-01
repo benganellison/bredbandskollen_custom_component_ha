@@ -1,0 +1,1 @@
+# bredbandskollen_custom_component_ha
