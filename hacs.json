@@ -1,4 +1,5 @@
 {
   "name": "bredbandskollen",
+  "domains": ["sensor"],
   "country": ["SE"]
 }
