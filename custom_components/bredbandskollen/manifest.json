@@ -1,6 +1,7 @@
 {
   "domain": "bredbandskollen",
   "name": "Bredbandskollen",
+  "version": "0.0.2",
   "documentation": "https://techcode7821332.wordpress.com/2019/01/09/bredbandskollen-custom-component-for-homeassistant/",
   "dependencies": [],
   "codeowners": ["benganellison"],
